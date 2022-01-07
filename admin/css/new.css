@@ -1,0 +1,53 @@
+table{
+    margin-left: 4%;
+    color: #333 !important;    
+}
+
+thead{
+    text-transform: capitalize;
+    background-color: rgb(201, 201, 201);
+}
+
+.center{
+    text-align: center;
+}
+
+.add{
+    margin-left: 4%;
+    margin-bottom: 2%;
+}
+
+td img{    
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.search-box{
+    width: 30%;
+    float: right;
+}
+
+.search-box .form-control{
+    width: 70%;
+    float: left;
+    margin-right: 3%;
+}
+
+.tanggal{
+    padding: 0px 10px;
+}
+
+
+.page-item.active .page-link{
+    color: #fff !important;
+    background-color: #b33939 !important;
+    border-color: #b33939 !important;
+}
+
+.page-item:last-child .page-link{
+    color: #b33939 !important;
+}
+
+.page-link{
+    color: #b33939 !important;
+}
